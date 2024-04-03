@@ -1,0 +1,6 @@
+# uBlacklist is a Google Search filter for Chrome, Firefox and Safari.
+# Link: https://iorate.github.io/ublacklist/docs
+
+/.*\.(ru|su|xn--p1ai)/
+*://*.tiktok.com/*
+*://vk.com/*
